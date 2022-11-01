@@ -9,7 +9,6 @@ title: Introduction
 
 - Traditional image coding
 - Learning based image coding
-- Low level CV task
 
 ## Contact us
 
