@@ -13,8 +13,8 @@ title: Introduction
 
 ## Contact us
 
-- [:e-mail:](mailto: dongeliu@mail.ustc.edu.cn)
+- [:e-mail:](mailto:dongeliu@mail.ustc.edu.cn)
 - [:speech_balloon:](https://github.com/ustc-ivclab/.github/discussions) [![github/discussions](https://shields.io/github/discussions/ustc-ivclab/.github)](https://github.com/ustc-ivclab/.github/discussions)
-- [:office:](https://ustc.edu.cn/) Dept. EEIS, No. 443 Huangshan Road, Hefei, 
-Anhui Province, China
+- [:office:](https://ustc.edu.cn/) Dept. EEIS, No. 443 Huangshan Road, Hefei,
+ Anhui Province, China
 - [:mailbox_with_mail:](https://ustc.edu.cn/) 230027
