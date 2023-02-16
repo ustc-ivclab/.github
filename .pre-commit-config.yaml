@@ -1,7 +1,7 @@
 ---
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.3.0
+    rev: v4.4.0
     hooks:
       - id: check-added-large-files
       - id: fix-byte-order-marker
@@ -21,7 +21,7 @@ repos:
       - id: check-toml
       - id: check-json
   - repo: https://github.com/Lucas-C/pre-commit-hooks
-    rev: v1.3.1
+    rev: v1.4.2
     hooks:
       - id: remove-crlf
   - repo: https://github.com/codespell-project/codespell
@@ -31,13 +31,13 @@ repos:
         additional_dependencies:
           - tomli
   - repo: https://github.com/jorisroovers/gitlint
-    rev: v0.17.0
+    rev: v0.19.0dev
     hooks:
       - id: gitlint
         args:
           - --msg-filename
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: 2.6.1
+    rev: 2.7.1
     hooks:
       - id: editorconfig-checker
   - repo: https://github.com/jumanjihouse/pre-commit-hooks
@@ -45,7 +45,7 @@ repos:
     hooks:
       - id: check-mailmap
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.28.0
+    rev: v1.29.0
     hooks:
       - id: yamllint
   - repo: https://github.com/executablebooks/mdformat
@@ -57,16 +57,13 @@ repos:
         additional_dependencies:
           - mdformat-gfm
           - mdformat-myst
-          - mdformat-tables
           - mdformat-toc
-          - mdformat-footnote
-          - mdformat-frontmatter
           - mdformat-deflist
           - mdformat-beautysh
           - mdformat-black
           - mdformat-config
   - repo: https://github.com/DavidAnson/markdownlint-cli2
-    rev: v0.5.1
+    rev: v0.6.0
     hooks:
       - id: markdownlint-cli2
         additional_dependencies:
