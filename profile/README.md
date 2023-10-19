@@ -63,3 +63,7 @@
 - If you need to connect Wi-Fi, you can choose:
   - [eduroam](https://ustcnet.ustc.edu.cn/2016/0405/c33584a592061/page.htm)
   - [ustc](http://wlt.ustc.edu.cn/)
+
+## Sister Laboratories
+
+- [USTC MCC Lab](https://github.com/ustc-mcc)
